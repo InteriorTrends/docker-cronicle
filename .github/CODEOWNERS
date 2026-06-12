@@ -1,0 +1,11 @@
+# CODEOWNERS — auto-route every pull request to rohan694 (CTO) for review + notification.
+#
+# Operator directive 2026-06-12: rohan694 must be notified about EVERY pull request,
+# in every InteriorTrends repository, regardless of who (human or AI agent) opens it.
+# Listing him as code owner of "*" makes GitHub auto-request his review on every PR.
+#
+# NOTIFICATION ONLY: there is no branch-protection rule requiring code-owner review,
+# so contributors and AI agents remain free to proceed/merge autonomously.
+# rohan is always informed; nobody is blocked.
+
+* @rohan694
